@@ -1,0 +1,9 @@
+{
+	"name": "seekube/artseld-openinviter-bundle",
+	"autoload": {
+		"psr-0": {
+			"Artseld\\OpeninviterBundle": ""
+		}
+	},
+	"target-dir": "Artseld/OpeninviterBundle"
+}
